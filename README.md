@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://steamuserimages-a.akamaihd.net/ugc/947332417659072578/101786213617F0A1C5EB5D7CF6F435690DF4DCEA/](https://usagif.com/wp-content/uploads/gifs/starfall-gif-19.gif)"  />
+<img align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-19.gif"  />
 
 ###
 
