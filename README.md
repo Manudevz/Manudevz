@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://4.bp.blogspot.com/-6DYtXvCOFGk/WxAzay1w8TI/AAAAAAAAjzs/4fhoL0VQkI8Kj0oJj0P8xuAqmtY3VPBNQCLcBGAs/s1600/Astronaut_web-tile_600x540.gif"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
 
 ###
 
