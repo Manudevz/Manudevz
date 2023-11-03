@@ -39,8 +39,8 @@
     </a>
   <div>
     
-  <br>
-  <br>
+  ###
+
   <div>
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>enmanuelmarcanoservices@gmail.com
       </code></pre><div class="zeroclipboard-container">
@@ -49,6 +49,5 @@
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path></svg>
         </clipboard-copy>
-  </div>
   </div>
 </div>
