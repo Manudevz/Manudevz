@@ -39,13 +39,8 @@
 - Tlfn: +541127725339
 - enmanuelmarcanoservices@gmail.com
 
-###
-
 <div align="left">
   <div>
-    <a href="https://discord.com/channels/manu1257" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    </a>
     <a href="https://www.linkedin.com/in/enmanuel-marcano-597810181/" target="_blank" rel="noopener noreferrer">  
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
