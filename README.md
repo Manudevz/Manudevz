@@ -1,8 +1,18 @@
 <h2 align="left">Hi 👋! My name is Enmanuel and I'm a Web developer jr.</h2>
 
-###
+## Desarrollador Full Stack Junior
 
+¡Hola! Soy un apasionado desarrollador full stack junior con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
 
+### Habilidades Técnicas
+- **Front-End**: HTML, CSS, JavaScript, React.js, Material UI, 
+- **Back-End**: Node.js, Express.js
+- **Bases de Datos**: SQL, MongoDB
+- **Control de Versiones**: Git
+- **Herramientas de Desarrollo**: Visual Studio Code, Postman, imsonnia, DBeaver, Robo 3T
+
+### Experiencia
+- Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
 
 ###
 
