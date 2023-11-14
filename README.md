@@ -1,23 +1,4 @@
-<h2 align="left">Hi 👋! My name is Enmanuel and I'm a Web developer jr.</h2>
-
-## Desarrollador Full Stack Junior
-
-¡Hola! Soy un apasionado desarrollador full stack junior con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
-
-### Habilidades Técnicas
-- **Front-End**: HTML, CSS, JavaScript, React.js, Material UI, 
-- **Back-End**: Node.js, Express.js
-- **Bases de Datos**: SQL, MongoDB
-- **Control de Versiones**: Git
-- **Herramientas de Desarrollo**: Visual Studio Code, Postman, imsonnia, DBeaver, Robo 3T
-
-### Experiencia
-- Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
-
-###
-
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
-
+<h2 align="left">Hola 👋! Mi nombre es Enmanuel.</h2>
 ###
 
 <div align="left">
@@ -33,6 +14,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
+
+## Desarrollador Full Stack Junior
+
+¡Hola! Soy un apasionado desarrollador full stack junior con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
+
+### Habilidades Técnicas
+- **Front-End**: HTML, CSS, JavaScript, React.js, Material UI, 
+- **Back-End**: Node.js, Express.js
+- **Bases de Datos**: SQL, MongoDB
+- **Control de Versiones**: Git
+- **Herramientas de Desarrollo**: Visual Studio Code, Postman, imsonnia, DBeaver, Robo 3T
+
+### Experiencia
+- Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
 
 ###
 
