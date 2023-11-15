@@ -19,9 +19,9 @@
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
 
-## Desarrollador Full Stack Junior
+## Desarrollador Full Stack Jr.
 
-¡Hola! Soy un apasionado desarrollador full stack junior con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
+¡Hola! Soy un apasionado desarrollador full stack con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
 
 ### Habilidades Técnicas
 - **Front-End**: HTML, CSS, JavaScript, React.js, Material UI, 
