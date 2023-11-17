@@ -24,7 +24,7 @@
 ¡Hola! Soy un apasionado desarrollador full stack con un enfoque en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo web, mientras contribuyo a proyectos emocionantes y desafiantes.
 
 ### Habilidades Técnicas
-- **Front-End**: HTML, CSS, JavaScript, React.js, Material UI, 
+- **Front-End**: HTML, CSS, JavaScript, Typerscript, React.js.
 - **Back-End**: Node.js, Express.js
 - **Bases de Datos**: SQL, MongoDB
 - **Control de Versiones**: Git
