@@ -34,7 +34,7 @@
 - Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
 
 ### Porfolio
-- https://portfolio-enmanuel.vercel.app
+- https://enmanuel-portfolio.vercel.app/
 
 ### Contactos
 - Tlfn: +541127725339
