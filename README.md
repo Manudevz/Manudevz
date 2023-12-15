@@ -39,9 +39,9 @@
 - https://portfolio-enmanuel.vercel.app/
 
 ### Contactos
- <img src="https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=612x612&w=0&k=20&c=z7RTcOE_vnT9eRcSEQhw0EVVRDb9JdDPaApfyO5nFxM=" height="30" alt="css3 logo"><a href='https://api.whatsapp.com/send?phone=+541127725339'><a/> <img/>
-  <img width="12" />'
-- Tlfn: +541127725339 
+ - Tlfn <a href='https://api.whatsapp.com/send?phone=+541127725339'>
+  <img src="https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=612x612&w=0&k=20&c=z7RTcOE_vnT9eRcSEQhw0EVVRDb9JdDPaApfyO5nFxM=" width="12" height="30" alt="phone logo">
+</a>
 - enmanuelmarcanoservices@gmail.com
 - https://www.linkedin.com/in/enmanuel-marcano-597810181/
 https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=612x612&w=0&k=20&c=z7RTcOE_vnT9eRcSEQhw0EVVRDb9JdDPaApfyO5nFxM=
