@@ -33,7 +33,7 @@
 - **Herramientas de Desarrollo**: Visual Studio Code, Postman, imsonnia, DBeaver, Robo 3T
 
 ### Experiencia
-- Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
+- Actualmente estoy estudiando java y trabajando en proyectos personales para mejorar mis habilidades de desarrollo web.
 
 ### Porfolio
 - https://portfolio-enmanuel.vercel.app/
