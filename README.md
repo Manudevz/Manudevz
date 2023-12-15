@@ -27,7 +27,7 @@
 
 ### Habilidades Técnicas
 - **Front-End**: HTML, CSS, JavaScript, Typerscript, React.js.
-- **Back-End**: Node.js, Express.js
+- **Back-End**: Node.js, java.
 - **Bases de Datos**: SQL, MongoDB
 - **Control de Versiones**: Git
 - **Herramientas de Desarrollo**: Visual Studio Code, Postman, imsonnia, DBeaver, Robo 3T
