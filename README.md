@@ -39,11 +39,14 @@
 - https://portfolio-enmanuel.vercel.app/
 
 ### Contactos
-- Tlfn: +541127725339
+ <img src="https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=612x612&w=0&k=20&c=z7RTcOE_vnT9eRcSEQhw0EVVRDb9JdDPaApfyO5nFxM=" height="30" alt="css3 logo"><a href='https://api.whatsapp.com/send?phone=+541127725339'><a/> <img/>
+  <img width="12" />'
+- Tlfn: +541127725339 
 - enmanuelmarcanoservices@gmail.com
 - https://www.linkedin.com/in/enmanuel-marcano-597810181/
-
+https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=612x612&w=0&k=20&c=z7RTcOE_vnT9eRcSEQhw0EVVRDb9JdDPaApfyO5nFxM=
 <div align="center">
+    
   <img src="https://github-readme-stats.vercel.app/api?username=Manudevz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manudevz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
