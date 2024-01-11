@@ -20,10 +20,6 @@
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
 
-## Desarrollador Full Stack Jr.
-
-¡Hola! Soy un apasionado desarrollador full stack con un enfoque en la creación de aplicaciones web y soluciones tecnológicas.
-
 ### Habilidades Técnicas
 - **Front-End**: HTML, CSS, JavaScript, Typerscript, React.js.
 - **Back-End**: Node.js, java.
