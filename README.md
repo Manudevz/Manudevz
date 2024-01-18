@@ -26,7 +26,7 @@
 - **Bases de Datos**: SQL, MongoDB
 
 ### Porfolio
-- https://portfolio-enmanuel.vercel.app/
+- Proximamente - Disponible 21/01/24
 
 ### Contactos
 - enmanuelmarcanoservices@gmail.com
