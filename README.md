@@ -23,7 +23,7 @@
 - **Front-End**: HTML, CSS, JavaScript, Typerscript, React.
 - **Back-End**: Node.js.
 - **Bases de Datos**: SQL, MongoDB
-- **Deploys**: vercel, render.
+- **Deploys**: vercel, render,gh-pages.
 
 ### Porfolio
 - Proximamente - Disponible 21/01/24
