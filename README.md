@@ -21,7 +21,7 @@
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
 
 ### Habilidades Técnicas
-- **Front-End**: HTML, CSS, JavaScript, Typerscript, React.js.
+- **Front-End**: HTML, CSS, JavaScript, Typerscript, React.
 - **Back-End**: Node.js, java.
 - **Bases de Datos**: SQL, MongoDB
 
