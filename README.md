@@ -16,14 +16,14 @@
   <img width="12" />
 </div>
 
-###
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:860/1*BQ9l-cT7CYYFwzDRBMdJMQ.gif"  />
 
 ### Habilidades Técnicas
 - **Front-End**: HTML, CSS, JavaScript, Typerscript, React.
-- **Back-End**: Node.js, java.
+- **Back-End**: Node.js.
 - **Bases de Datos**: SQL, MongoDB
+- ** Deploys**: vercel, render.
 
 ### Porfolio
 - Proximamente - Disponible 21/01/24
